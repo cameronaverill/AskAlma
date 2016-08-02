@@ -8,6 +8,7 @@ Cameron Averill
 Saahil Jain
 Jessie Liu
 Jiayin Tang
+Ivy Chen
 
 Mentor: Joshua Zweig
 
